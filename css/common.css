@@ -13,6 +13,7 @@ html,body{
     color: red;
     width:500px;
     text-align: center;
+    position: relative;
     margin: 20px auto;
     animation:myfirst 5s linear 2s infinite alternate;
 }
